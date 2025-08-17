@@ -13,6 +13,7 @@ Designed for personal image libraries, datasets, or any folder of pictures with 
 - Copy an image to the clipboard by clicking on it.  
 - Paste text into the search bar with **Ctrl+V**.  
 - Special Finder_lite.py version of default finder.py script for lightweight builds.
+- Auto captions generator that uses OCR and Img_2_text models.
 
 ---
 
